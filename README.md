@@ -1,9 +1,7 @@
-# Testing again
+# Testing
 
-Keep practicing
+Testing branching
 
 ## again
 
-trial again
-
-Lets do this again
+Testing again for branch comparision
